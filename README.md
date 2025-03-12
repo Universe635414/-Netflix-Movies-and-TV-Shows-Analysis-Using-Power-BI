@@ -1,6 +1,8 @@
 # Netflix Movies and TV Shows Analysis Using Power BI
 # Purpose for choosing the dataset
-In order to effectively analyse and get useful trends and patterns about How Netflix Movies & Tv Shows analysis Provided insightful information how audience votes and score impacts movies and tv shows ratings over the years, how movie duration time is changing over time. This research provides light on the various elements driving the popularity of content by carefully examining Number of votes received for each genre on IMDB scale and category preferences for Audience. This analysis makes producer’s and movie production team to take more informed decisions about current audience preferences over Movies and Tv Shows.
+In order to effectively analyse and get useful trends and patterns about How Netflix Movies & Tv Shows analysis Provided insightful information how audience votes and score impacts movies and tv shows ratings over the years, how movie duration time is changing over time. 
+
+This research provides light on the various elements driving the popularity of content by carefully examining Number of votes received for each genre on IMDB scale and category preferences for Audience. This analysis makes producer’s and movie production team to take more informed decisions about current audience preferences over Movies and Tv Shows.
 
 # The questions this project seeks to answer are as follows:
 •	What content Netflix is adding over the years & which content holds majorly in Netflix -movies or Tv shows?
@@ -21,22 +23,36 @@ In order to effectively analyse and get useful trends and patterns about How Net
 
 # Key Findings
 The following are the findings from the the business intelligence reports analysis of the above-mentioned business questions
+
 •	2/3rd of content on Netflix is movies and remaining are tv shows
+
 •	Growth in adding number of movies is more on Netflix then Tv shows over the years
+
 •	United sates produced more number of movies and tv shows over the years than other countries 
+
 •	Netflix produce large of number of movies and tv shows for adult audience
+
 •	December month is the most popular month for adding more number of movies and Tv shows
+
 •	100-130 movie duration is most watched run time preference by larger amount of audience
+
 •	Drama is the most popular genre for movies and tv shows compared to other genres in terms of highest number of votes received on IMDB scale
+
 •	Tv show with Seasons 5 is most watched in terms of highest number of votes received from audience on IMDB scale
+
 •	United sates have highest revenue growth for Netflix over the years
+
 •	2019-2022 years added up to 1 bn subscribers in total.
 
 # Recommendations
 •	Although Netflix hold highest % of movies but there has been gradually decreases in adding movies from 2020-2022 so Netflix should focus on adding more number of movies of different genres to avoid losing subscribers
+
 •	Only United states and India and United Kingdom added most of the movies and tv shows in Netflix, it should bring more movies and tv shows from different countries to make culture diversity and improve audience preference recommendation system.
+
 •	Movie and tv show runtime getting shorter over the years, Netflix should go with the larger amount of audience run time preference to have better viewing experience.
+
 •	Drama was the most popular genre with highest number of votes received in Netflix, with audience preferences changing over time, Netflix should bring other genres with good content to increase the userbase and not to stick with few genres.
+
 •	Only few countries having more accessible to Netflix streaming services like united sates, India and United Kingdom, to increase the more revenue and subscribers, Netflix should implement more accessible options of its streaming service to different parts of the world.
 
 
